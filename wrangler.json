@@ -1,8 +1,6 @@
-// wrangler.json
-"name": "smoly-2",
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "neoacc-worker",
+  "name": "smoly-2",
   "main": "worker/index.ts",
   "compatibility_date": "2026-01-01",
   "compatibility_flags": ["nodejs_compat"],
